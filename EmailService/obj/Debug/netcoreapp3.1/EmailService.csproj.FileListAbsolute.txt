@@ -1,0 +1,53 @@
+C:\Users\gallo\OneDrive\Área de Trabalho\SiteFilmes\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+C:\Users\gallo\OneDrive\Área de Trabalho\SiteFilmes\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\gallo\OneDrive\Área de Trabalho\SiteFilmes\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\gallo\OneDrive\Área de Trabalho\SiteFilmes\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+C:\Users\gallo\OneDrive\Área de Trabalho\SiteFilmes\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+C:\Users\gallo\OneDrive\Área de Trabalho\SiteFilmes\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\gallo\OneDrive\Área de Trabalho\SiteFilmes\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\gallo\OneDrive\Área de Trabalho\SiteFilmes\EmailService\obj\Debug\netcoreapp3.1\EmailService.csprojAssemblyReference.cache
+C:\Users\gallo\OneDrive\Área de Trabalho\ECS\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+C:\Users\gallo\OneDrive\Área de Trabalho\ECS\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\gallo\OneDrive\Área de Trabalho\ECS\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\gallo\OneDrive\Área de Trabalho\ECS\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\gallo\OneDrive\Área de Trabalho\ECS\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+C:\Users\gallo\OneDrive\Área de Trabalho\ECS\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+C:\Users\gallo\OneDrive\Área de Trabalho\ECS\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\gallo\OneDrive\Área de Trabalho\ECS\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\gallo\OneDrive\Área de Trabalho\ECS\EmailService\obj\Debug\netcoreapp3.1\EmailService.csprojAssemblyReference.cache
+C:\Users\gallo\OneDrive\Área de Trabalho\ECS\ECS-APP\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+C:\Users\gallo\OneDrive\Área de Trabalho\ECS\ECS-APP\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\gallo\OneDrive\Área de Trabalho\ECS\ECS-APP\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\gallo\OneDrive\Área de Trabalho\ECS\ECS-APP\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+C:\Users\gallo\OneDrive\Área de Trabalho\ECS\ECS-APP\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+C:\Users\gallo\OneDrive\Área de Trabalho\ECS\ECS-APP\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\gallo\OneDrive\Área de Trabalho\ECS\ECS-APP\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\gallo\OneDrive\Área de Trabalho\ECS\ECS-APP\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\gallo\OneDrive\Área de Trabalho\ECS\ECS-APP\EmailService\obj\Debug\netcoreapp3.1\EmailService.csprojAssemblyReference.cache
+D:\Escola\Online\PW\Imobiliaria_Register\ImobiliariaEtec\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+D:\Escola\Online\PW\Imobiliaria_Register\ImobiliariaEtec\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+D:\Escola\Online\PW\Imobiliaria_Register\ImobiliariaEtec\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+D:\Escola\Online\PW\Imobiliaria_Register\ImobiliariaEtec\EmailService\obj\Debug\netcoreapp3.1\EmailService.csprojAssemblyReference.cache
+D:\Escola\Online\PW\Imobiliaria_Register\ImobiliariaEtec\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+D:\Escola\Online\PW\Imobiliaria_Register\ImobiliariaEtec\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+D:\Escola\Online\PW\Imobiliaria_Register\ImobiliariaEtec\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+D:\Escola\Online\PW\Imobiliaria_Register\ImobiliariaEtec\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+D:\Escola\Online\PW\Imobiliaria_Register\ImobiliariaEtec\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\gallo\OneDrive\Área de Trabalho\ImobiliariaEtec\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+C:\Users\gallo\OneDrive\Área de Trabalho\ImobiliariaEtec\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\gallo\OneDrive\Área de Trabalho\ImobiliariaEtec\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\gallo\OneDrive\Área de Trabalho\ImobiliariaEtec\EmailService\obj\Debug\netcoreapp3.1\EmailService.csprojAssemblyReference.cache
+C:\Users\gallo\OneDrive\Área de Trabalho\ImobiliariaEtec\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+C:\Users\gallo\OneDrive\Área de Trabalho\ImobiliariaEtec\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+C:\Users\gallo\OneDrive\Área de Trabalho\ImobiliariaEtec\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\gallo\OneDrive\Área de Trabalho\ImobiliariaEtec\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\gallo\OneDrive\Área de Trabalho\ImobiliariaEtec\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\erick\Downloads\ImobiliariaEtec\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+C:\Users\erick\Downloads\ImobiliariaEtec\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\erick\Downloads\ImobiliariaEtec\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\erick\Downloads\ImobiliariaEtec\EmailService\obj\Debug\netcoreapp3.1\EmailService.csprojAssemblyReference.cache
+C:\Users\erick\Downloads\ImobiliariaEtec\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+C:\Users\erick\Downloads\ImobiliariaEtec\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+C:\Users\erick\Downloads\ImobiliariaEtec\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\erick\Downloads\ImobiliariaEtec\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\erick\Downloads\ImobiliariaEtec\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb
